@@ -1,1 +1,3 @@
-# PassNYC
+PASSNYC is a not-for-profit organization that facilitates a collective impact that is dedicated to broadening educational opportunities for New York City's talented and underserved students. 
+PASSNYC uses public data to identify students within New York City’s under-performing school districts and, through consulting and collaboration with partners, aims to increase the diversity of students taking the Specialized High School Admissions Test (SHSAT). 
+Using Python Data Visualization techniques(Seaborn and Matplotlib),I am analyzing and identifying the various challenges students of New York face while taking the SHSAT.
