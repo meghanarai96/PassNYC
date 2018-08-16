@@ -11,3 +11,23 @@ PASSNYC and its partners provide outreach services that improve the chances of s
 
 
 Part of this challenge is to assess the needs of students by using publicly available data to quantify the challenges they face in taking the SHSAT.The best solutions will enable PASSNYC to identify the schools where minority and underserved students stand to gain the most from services like after school programs, test preparation, mentoring, or resources for parents.
+
+
+# 2. Technology Used
+
+Python Libraries used:
+
+1. Matplotlib
+
+2. Seaborn
+
+
+# 3.Code Description
+
+| Code File     | Description   |
+| ------------- |:-------------:| 
+| PASSNYC.ipynb     |EDA of PASSNYC dataset  |
+
+# 4. Data Source
+
+https://www.kaggle.com/passnyc/data-science-for-good
